@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Amon 👋
 
-<!--
-**am0ndev/am0ndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an AI and software engineering student in Japan.
+I mainly work with Python and Swift, and I'm interested in building practical applications using AI.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying computer science and artificial intelligence
+* 🐍 Mainly developing with Python
+* 📱 Learning Swift and iOS app development
+* 🤖 Interested in computer vision, natural language processing, and machine learning
+* ☕ Also interested in coffee and personal productivity
+
+## Tech Stack
+
+* Python
+* Swift
+* OpenCV
+* MediaPipe
+* NumPy
+* Git / GitHub
+
+## Featured Projects
+
